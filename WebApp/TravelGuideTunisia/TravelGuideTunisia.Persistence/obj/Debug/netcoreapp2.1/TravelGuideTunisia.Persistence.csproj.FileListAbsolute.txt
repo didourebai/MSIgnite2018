@@ -1,0 +1,9 @@
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Persistence\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.deps.json
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Persistence\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.dll
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Persistence\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.pdb
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Persistence\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.csprojAssemblyReference.cache
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Persistence\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.csproj.CoreCompileInputs.cache
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Persistence\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.AssemblyInfoInputs.cache
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Persistence\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.AssemblyInfo.cs
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Persistence\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.dll
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Persistence\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.pdb

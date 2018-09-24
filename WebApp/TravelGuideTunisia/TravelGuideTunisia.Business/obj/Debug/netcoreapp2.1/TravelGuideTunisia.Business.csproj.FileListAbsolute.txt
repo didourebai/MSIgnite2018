@@ -1,0 +1,12 @@
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Business\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Business.deps.json
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Business\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Business.dll
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Business\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Business.pdb
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Business\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.dll
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Business\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.pdb
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Business\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Business.csprojAssemblyReference.cache
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Business\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Business.csproj.CoreCompileInputs.cache
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Business\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Business.AssemblyInfoInputs.cache
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Business\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Business.AssemblyInfo.cs
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Business\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Business.csproj.CopyComplete
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Business\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Business.dll
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Business\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Business.pdb

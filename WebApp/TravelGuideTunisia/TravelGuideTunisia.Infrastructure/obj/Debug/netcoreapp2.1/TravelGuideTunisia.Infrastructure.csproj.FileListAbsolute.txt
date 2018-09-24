@@ -1,0 +1,14 @@
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Infrastructure.deps.json
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Infrastructure.dll
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Infrastructure.pdb
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Business.dll
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.dll
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Business.pdb
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\bin\Debug\netcoreapp2.1\TravelGuideTunisia.Persistence.pdb
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Infrastructure.csprojAssemblyReference.cache
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Infrastructure.AssemblyInfoInputs.cache
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Infrastructure.AssemblyInfo.cs
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Infrastructure.csproj.CopyComplete
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Infrastructure.dll
+E:\Microsoft Ignite\TemplateInGithub\WebApp\TravelGuideTunisia\TravelGuideTunisia.Infrastructure\obj\Debug\netcoreapp2.1\TravelGuideTunisia.Infrastructure.pdb
